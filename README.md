@@ -1,5 +1,5 @@
 # music_expert_system_using_prolog
-This project is mainly based on the design of an expert system using relational lenguage based on AI treatment mostly known as Prolog.
+This project is mainly based in the design of an expert system using logic and relational programming lenguage based on AI treatment, known as Prolog.
 
 It allows you to know and display some useful information about feelings and music, this means letting everyone know, how they might be feeling, which kind (genre) of music they should listen and/or the key of songs that they should listen based on these mentioned feelings as well as some song examples that they should take a look into to overpass ( p.e sad) and/or relate accordingly with that feeling (p.e happy)
 

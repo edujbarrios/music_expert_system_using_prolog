@@ -1,6 +1,10 @@
 %This code still being WIP, it will be updated with more knowledge base and functions in the near future
 
-%Facts
+%references for this source code:
+% 1. musicstax.com
+% 2. https://ledgernote.com/blog/interesting/musical-key-characteristics-emotions/
+
+%---------Facts-------------
 
 %Musical Keys
 key(c_major, happy).
@@ -32,8 +36,6 @@ genre(country, [worried]).
 genre(classical, [calm, tender]).
 genre(metal, [furious, unhappy, sad, restless]).
 
-%More genres will be added on future updates
-
 %Songs
 song(c_major, happy, ["I Want to Break Free by Queen", "Aint No Sunshine by Bill Withers"]).
 song(c_minor, sad, ["Fix You by Coldplay", "You’re beautiful by James Blunt"]).
@@ -50,8 +52,6 @@ song(a_major, joyful, ["Wonderwall by Oasis", "The A Team by Ed Sheeran"]).
 song(a_minor, tender, ["Stairway to Heaven by Led Zeppelin", "Heaven by Bryan Adams"]).
 song(b_major, strong, ["I’m Yours by Jason Mraz", "Strobe by deadmau5"]).
 song(b_minor, solitary, ["Here Without You by 3 Doors Down", "Love in The Dark by Adele"]).
-
-%note that more songs will be added on future updates
 
 %List of three main options given to the user at the start
 main_menu_items(options, 

@@ -5,7 +5,7 @@ It allows you to know and display some useful information about feelings and mus
 
 This is a w.i.p project, it may be updated with more functionalities and entires on the knwoledge base in the near future, which will be supplied as commits on this github repository
 
-HOW-TO-COMPILE:
+HOW-TO-USE:
 	
 	1. As you may not have a propper compiler for this language, make sure to visit this online tool:
 	

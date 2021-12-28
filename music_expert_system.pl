@@ -19,6 +19,8 @@ key(a_minor, tender).
 key(b_major, strong).
 key(b_minor, solitary).
 
+%Note that sharp and flat keys haven't been added yet
+
 %Genres
 genre(rock, [sad, love_sick, powered, euphoric,furious,depressive, strong, restless]).
 genre(pop, [happy, calm, satisfied, tender]).
@@ -29,6 +31,8 @@ genre(blues, [joyful, worried]).
 genre(country, [worried]).
 genre(classical, [calm, tender]).
 genre(metal, [furious, unhappy, sad, restless]).
+
+%More genres will be added on future updates
 
 %Songs
 song(c_major, happy, ["I Want to Break Free by Queen", "Aint No Sunshine by Bill Withers"]).
@@ -41,17 +45,21 @@ song(e_minor, restless, ["Seven Nation Army by The White Stripes", "Sandstorm by
 song(f_major, furious, ["Bed Of Roses by Bon Jovi", "I’m not the only One by Sam Smith"]).
 song(f_minor, depressive, ["Children by Robert Miles", "Let You Down by NF"]).
 song(g_major, calm, ["Man In The Mirror by Michael Jackson", "Santa Tell Me by Ariana Grande"]).
-song(g_minor, unhappy, ["I Took a Pill in Ibiza by Mike Posner", "Hold On by Armin Van Buuren"]).
+song(g_minor, unhappy, ["I Took a Pill in Ibiza by Mike Posner", "Somebody to Love by Queen"]).
 song(a_major, joyful, ["Wonderwall by Oasis", "The A Team by Ed Sheeran"]).
 song(a_minor, tender, ["Stairway to Heaven by Led Zeppelin", "Heaven by Bryan Adams"]).
 song(b_major, strong, ["I’m Yours by Jason Mraz", "Strobe by deadmau5"]).
-song(b_minor, solitary, ["Whistle by Flo Rida", "Love in The Dark by Adele"]).
+song(b_minor, solitary, ["Here Without You by 3 Doors Down", "Love in The Dark by Adele"]).
+
+%note that more songs will be added on future updates
 
 %List of three main options given to the user at the start
 main_menu_items(options, 
     ["1. How are you feeling today?", 
     "2. What Kind of genre would you like to listen to?", 
     "3. Please type a key to know."]).
+    
+    %more random start_over questions will be added on future code updates
 
 %Selection based on menu question
 

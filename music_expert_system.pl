@@ -1,3 +1,5 @@
+%This code still being WIP, it will be updated with more knowledge base and functions in the near future
+
 %Facts
 
 %Musical Keys

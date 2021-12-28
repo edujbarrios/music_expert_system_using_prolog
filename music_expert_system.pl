@@ -30,7 +30,6 @@ genre(country, [worried]).
 genre(classical, [calm, tender]).
 genre(metal, [furious, unhappy, sad, restless]).
 
-%todavia queda por rellenar
 %Songs
 song(c_major, happy, ["I Want to Break Free by Queen", "Aint No Sunshine by Bill Withers"]).
 song(c_minor, sad, ["Fix You by Coldplay", "You’re beautiful by James Blunt"]).

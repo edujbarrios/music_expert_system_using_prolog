@@ -3,7 +3,7 @@ This project is mainly based in the design of an expert system using logic and r
 
 It allows you to know and display some useful information about feelings and music, this means letting everyone know, how they might be feeling, which kind (genre) of music they should listen and/or the key of songs that they should listen based on these mentioned feelings, assuming that every key of music gives a certain feeling while listening, as well as some song examples that they should take a look into to overpass (p.e sad) and/or relate accordingly with that feeling (p.e happy), asked in different and random ways, but each one of them, related and stated with music, this is the reason why it's called "Expert System".
 
-This is a w.i.p project, it may be updated with more functionalities and entires on the knwoledge base in the near future, which will be supplied as commits on this github repository
+This is a w.i.p project, it may be updated with more functionalities and entries on the knwoledge base in the near future, which will be supplied as commits on this github repository
 
 HOW-TO-USE:
 	
